@@ -125,9 +125,7 @@ export default function ConfessionPage() {
                     tôi một cơ hội để chăm sóc và quan tâm em được không?....
                   </p>
                   <p>
-                    Nếu như nàng đồng ý hãy nhìn ra sau lưng nhé còn nếu không
-                    hãy lên phòng và tôi sẽ tự động rời đi và sẽ không làm phiền
-                    em nữa...
+                    Nếu như nàng đồng ý hãy xuống dưới nhé còn không thì đừng làm chi hết gấp lại ngủ ngon thôi hehe
                   </p>
                   <p className="text-center italic">💕</p>
                 </div>
